@@ -6,3 +6,4 @@
 While making the infographic, I found it a little difficult to choose the best layout and keep the content short. But it was also interesting to try different designs and customize them in my own way. This task helped me learn how to present information clearly and in a more creative way.</h3>
 
 [View Infographic](Task1/DigitalInfographic.pdf)
+in case the link shows "Unable to render code block" due to internet issue, download raw file and check. Thank you.
