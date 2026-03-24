@@ -1,4 +1,4 @@
-# digital-literacy
+# Digital-literacy
 <h1>Tanushri Ankush Halmare 25MIB10058</h1>
 <h2>Task1: Infographic</h2>
 <h3>For Task 1, I used Canva to make my Digital Literacy Awareness infographic because it is simple to use and has many ready-made designs. My infographic explains what digital literacy is and why it is important for students today. I included topics like safe internet practices, useful digital tools such as Google Docs and GitHub, and basic email etiquette. I kept the design simple by using icons and short points so that it is easy to read and understand.
