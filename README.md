@@ -143,8 +143,6 @@ For this task, I created two professionally written emails:
 
 </p>
 
-<hr>
-
 ### Part B – Social Media Do’s & Don’ts Checklist
 <p>
 I also prepared a simple and clear checklist containing 5 Do’s and 5 Don’ts for responsible 
@@ -161,27 +159,6 @@ social media usage, especially for college students.
 </body>
 </html>
 
----
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Task 5 – Cybercrime Case Study & Prevention Checklist</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        a {
-            color: #0066cc;
-        }
-    </style>
-</head>
-
-<body>
 
 ## Task 5 – Cybercrime Case Study & Prevention Checklist
 <p>
