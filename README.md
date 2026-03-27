@@ -22,6 +22,8 @@ It helped me arrange the information neatly and make the infographic visually cl
   <li><strong>Safe Internet Practices:</strong> Using strong passwords, avoiding unknown links, not sharing personal details, and enabling two-step verification.</li>
 </ul>
 [View Infographic](task-1-presentation/DigitalInfographic.pdf)
+
+
 in case the link shows "Unable to render code block" due to internet issue, download raw file and check. Thank you.
 
 
