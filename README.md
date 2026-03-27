@@ -1,7 +1,7 @@
 # Digital-literacy
 ### Tanushri Ankush Halmare 25MIB10058
 
-## Task 1 – Infographic Of Digital Literacy
+## Task 1 — Infographic Of Digital Literacy
 <p>
 For Task 1 of my Digital Literacy project, I created a one-page infographic using Canva.  
 The goal was to help students understand what digital literacy means and why it matters.  
@@ -21,11 +21,13 @@ It helped me arrange the information neatly and make the infographic visually cl
   <li><strong>Useful Digital Tools:</strong> Google Docs for notes, Zoom for classes, GitHub for projects, and Canva for design.</li>
   <li><strong>Safe Internet Practices:</strong> Using strong passwords, avoiding unknown links, not sharing personal details, and enabling two-step verification.</li>
 </ul>
-[View Infographic](task-1-presentation/DigitalInfographic.pdf)
+
+[view infographic](task-1-presentation/DigitalInfographic.pdf)
 
 in case the link shows "Unable to render code block" due to internet issue, download raw file and check. Thank you.
 
 ---
+
 
 ## Task 2 — Student Digital Portfolio
 For Task 2 of my Digital Literacy project, I created my Student Digital Portfolio across three major professional platforms: LinkedIn, GitHub, and ResearchGate. These platforms will help me build a strong online presence as I continue my journey in Bioinformatics and Artificial Intelligence.
@@ -80,7 +82,7 @@ For Task 2 of my Digital Literacy project, I created my Student Digital Portfoli
 
 ---
 
-## Task 3 — Coding & Collaboration Platforms
+## Task 3 —  Coding & Collaboration Platforms
 
 For Task 3, I completed a beginner coding challenge on
 **HackerRank**  and created a Digital Literacy Awareness Quiz
