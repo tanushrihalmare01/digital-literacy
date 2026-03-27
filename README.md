@@ -22,7 +22,7 @@ It helped me arrange the information neatly and make the infographic visually cl
   <li><strong>Safe Internet Practices:</strong> Using strong passwords, avoiding unknown links, not sharing personal details, and enabling two-step verification.</li>
 </ul>
 
-[view infographic](task-1-presentation/DigitalInfographic.pdf)
+[View infographic](task-1-presentation/DigitalInfographic.pdf)
 
 in case the link shows "Unable to render code block" due to internet issue, download raw file and check. Thank you.
 
@@ -82,18 +82,42 @@ For Task 2 of my Digital Literacy project, I created my Student Digital Portfoli
 
 ---
 
-## Task 3 —  Coding & Collaboration Platforms
 
-For Task 3, I completed a beginner coding challenge on
-**HackerRank**  and created a Digital Literacy Awareness Quiz
-using **Google Forms** and linked it to Google Sheet for response
-tracking.
 
-Part A, I have created an account on HackerRank and completed a beginner level Python problem.   
-| HackerRank Challenge | [View Screenshot](task-3-platforms/hackerrank.png) |
+## Task 3 – Coding Practice & Google Workspace Collaboration
 
-Part B, I created a Google form titled " Digital Literacy Awareness Quiz " with multiple choice and short answer type questions and linked to Google Sheets for viewing responses.                    
-Google Form Link-[Digital Literacy Awareness Quiz](https://forms.gle/bc2ZgieZDEqhq4os5)  
+<h2>Part A – Coding Practice (HackerRank)</h2>
+<p>
+For this task, I created an account on <strong>HackerRank</strong> and completed a beginner-level challenge. 
+This helped me understand how the platform works and how online coding problems are solved. 
+The activity improved my confidence in writing simple code and practising logic-based questions.
+</p>
 
-| Google Form | [View Screenshot](task-3-platforms/google-form.png) |                   
-| Google Sheet | [View Screenshot](task-3-platforms/google-sheet.png) |
+<p><strong>HackerRank Screenshot:</strong>
+  
+[View screenshot](task-3-platforms/hackerrank.png)
+  
+</p>
+
+<h2>Part B – Google Form Quiz</h2>
+<p>
+For the collaboration part, I created a Google Form titled 
+<strong>Digital Literacy Awareness Quiz</strong>.  
+The form contains exactly five questions with a mix of multiple-choice and short-answer types. 
+This task helped me understand how Google Forms can be used effectively for quizzes, surveys, 
+and classroom activities.
+</p>
+
+<p>
+<strong>Google Form Link:</strong><br>
+
+[Click here to view the Google Form Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeDUuiwmNhfxCAgRtF5Sj1P2mSVNVeNdmPOsOA6EQ9RGmegjA/viewform?usp=header)
+
+| Google Form | [View Screenshot](task-3-platforms/googleform.pdf) |
+</p>
+ 
+</body>
+</html>
+
+
+
