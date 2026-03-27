@@ -9,13 +9,13 @@ My design focuses on three useful areas: what digital literacy is, important dig
 and simple safe internet practices everyone should follow.
 </p>
 
-<h2> Tool Used</h2>
+### Tool Used
 <p>
 I used <strong>Canva</strong> because it is easy to use and has a lot of modern templates.  
 It helped me arrange the information neatly and make the infographic visually clear.
 </p>
 
-<h2> What My Infographic Shows</h2>
+### What My Infographic Shows
 <ul>
   <li><strong>What Digital Literacy Means:</strong> Understanding digital devices, online platforms, and safe online communication.</li>
   <li><strong>Useful Digital Tools:</strong> Google Docs for notes, Zoom for classes, GitHub for projects, and Canva for design.</li>
@@ -86,7 +86,7 @@ For Task 2 of my Digital Literacy project, I created my Student Digital Portfoli
 
 ## Task 3 – Coding Practice & Google Workspace Collaboration
 
-<h2>Part A – Coding Practice (HackerRank)</h2>
+### Part A – Coding Practice (HackerRank)
 <p>
 For this task, I created an account on <strong>HackerRank</strong> and completed a beginner-level challenge. 
 This helped me understand how the platform works and how online coding problems are solved. 
@@ -99,7 +99,7 @@ The activity improved my confidence in writing simple code and practising logic-
   
 </p>
 
-<h2>Part B – Google Form Quiz</h2>
+### Part B – Google Form Quiz
 <p>
 For the collaboration part, I created a Google Form titled 
 <strong>Digital Literacy Awareness Quiz</strong>.  
@@ -119,5 +119,83 @@ and classroom activities.
 </body>
 </html>
 
+---
 
 
+<body>
+
+## Task 4 – Professional Email Writing & Social Media Etiquette
+
+### Part A – Professional Emails
+<p>
+For this task, I created two professionally written emails:
+</p>
+<ul>
+    <li>1.Email to a professor requesting an assignment extension</li>
+    <li>2.Email to an internship coordinator expressing interest in a summer internship</li>
+</ul>
+
+<p><strong>Attached PDF:</strong></p>
+
+[Click here to view the Email 1 PDF](task-4-email-etiquette/email1.pdf)
+
+[Click here to view the Email 2 PDF](task-4-email-etiquette/email2.pdf)
+
+</p>
+
+<hr>
+
+### Part B – Social Media Do’s & Don’ts Checklist
+<p>
+I also prepared a simple and clear checklist containing 5 Do’s and 5 Don’ts for responsible 
+social media usage, especially for college students.
+</p>
+
+<p><strong>Attached PDF:</strong></p>
+
+[Click here to view the Social Media Checklist PDF](task-4-email-etiquette/Social-Media-checklist.md)
+
+</p>
+
+<hr>
+</body>
+</html>
+
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task 5 – Cybercrime Case Study & Prevention Checklist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+
+<body>
+
+## Task 5 – Cybercrime Case Study & Prevention Checklist
+<p>
+This folder contains my ransomware case study and the prevention checklist required for 
+Task 5 of the Digital Literacy project. Both documents are included separately as PDF files.
+</p>
+
+### Files Included
+<ul>
+    <li><a href="task-5-cybercrime/casestudy.md">casestudy.pdf</a> – Ransomware case study</li>
+    <li><a href="task-5-cybercrime/prevention-checklist.md">prevention-checklist.pdf</a> – Prevention checklist</li>
+</ul>
+
+
+
+</body>
+</html>
