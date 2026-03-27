@@ -1,7 +1,7 @@
 # Digital-literacy
-<h1>Tanushri Ankush Halmare 25MIB10058</h1>
+### Tanushri Ankush Halmare 25MIB10058
 
-<h1>Task 1 – Infographic Of Digital Literacy</h1>
+## Task 1 – Infographic Of Digital Literacy
 <p>
 For Task 1 of my Digital Literacy project, I created a one-page infographic using Canva.  
 The goal was to help students understand what digital literacy means and why it matters.  
@@ -23,31 +23,68 @@ It helped me arrange the information neatly and make the infographic visually cl
 </ul>
 [View Infographic](task-1-presentation/DigitalInfographic.pdf)
 
-
 in case the link shows "Unable to render code block" due to internet issue, download raw file and check. Thank you.
 
-
-
-
-
-
-
-
-
-
-
-## Task 1 — Digital Literacy Awareness Infographic
-
-For Task 1, I designed a one-page infographic on Digital
-Literacy using Canva.The goal was to create a simple, visually clear resource
-that helps fellow students understand the basics of
-navigating the digital world confidently and safely.
-### Tool Used
-Canva (canva.com) — free, browser-based design tool
-### Link
-🔗 [View Infographic](task-1-presentation/Digital_Literacy_Infographic.pdf)
-
 ---
+
+## Task 2 — Student Digital Portfolio
+<h2> Platform </h2>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Platform</th>
+    <th>Profile Link</th>
+    <th>Purpose</th>
+  </tr>
+
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/tanushri-halmare-5384133b9">
+        linkedin.com/in/tanushri-halmare-5384133b9
+      </a>
+    </td>
+    <td>Professional networking, education details, career connections</td>
+  </tr>
+
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td>
+      <a href="https://github.com/tanushrihalmare01">
+        github.com/tanushrihalmare01
+      </a>
+    </td>
+    <td>Showcase coding projects, repositories, and technical work</td>
+  </tr>
+
+  <tr>
+    <td><strong>ResearchGate</strong></td>
+    <td>
+      <a href="https://www.researchgate.net/profile/Tanushri-Halmare?ev=hdr_xprf">
+        researchgate.net/profile/Tanushri-Halmare
+      </a>
+    </td>
+    <td>Research profile, publications, academic visibility</td>
+  </tr>
+</table>
+<h2>📸 Screenshots</h2>
+
+<h3>1. LinkedIn Profile</h3>
+<img src="">
+
+<h3>2. GitHub Profile</h3>
+<img src="<img width="2084" height="1093" alt="githubprofile" src="https://github.com/user-attachments/assets/dcdd4127-c8a5-464a-b94d-e24a5c7973f0" />
+">
+
+<h3>3. ResearchGate Profile</h3>
+<img src="researchgateprofile.png" alt="ResearchGate Profile Screenshot">
+
+
+
+
+
+
+
 
 ## Task 2 — Student Digital Portfolio
 
