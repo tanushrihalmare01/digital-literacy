@@ -28,6 +28,7 @@ in case the link shows "Unable to render code block" due to internet issue, down
 ---
 
 ## Task 2 — Student Digital Portfolio
+For Task 2 of my Digital Literacy project, I created my Student Digital Portfolio across three major professional platforms: LinkedIn, GitHub, and ResearchGate. These platforms will help me build a strong online presence as I continue my journey in Bioinformatics and Artificial Intelligence.
 <h2> Platform </h2>
 
 <table border="1" cellpadding="8" cellspacing="0">
@@ -67,42 +68,15 @@ in case the link shows "Unable to render code block" due to internet issue, down
     <td>Research profile, publications, academic visibility</td>
   </tr>
 </table>
-<h2>📸 Screenshots</h2>
 
-<h3>1. LinkedIn Profile</h3>
-<img src="">
-
-<h3>2. GitHub Profile</h3>
-<img src="<img width="2084" height="1093" alt="githubprofile" src="https://github.com/user-attachments/assets/dcdd4127-c8a5-464a-b94d-e24a5c7973f0" />
-">
-
-<h3>3. ResearchGate Profile</h3>
-<img src="researchgateprofile.png" alt="ResearchGate Profile Screenshot">
-
-
-
-
-
-
-
-
-## Task 2 — Student Digital Portfolio
-
-For Task 2, I have built my digital portfolio by creating profiles on GitHub, LinkedIn and ResearchGate.
-### Platforms
-| Platform | Purpose | Profile Link |
-|---|---|---|
-| GitHub | Code hosting & project showcase | [My GitHub](https://github.com/riyapal25) |
-| LinkedIn | Professional networking & career | [My LinkedIn](https://linkedin.com/in/riya-pal-522512387) |
-| ResearchGate | Academic research & publications | [My ResearchGate](https://researchgate.net/profile/Riya-Pal-7?ev=hdr_xprf) |
 
 ### Files
 
 | Screenshot | 🔗 Link |
 |---|---|
-| GitHub Profile | [View Screenshot](task-2-portfolio/github-profile.png) |
-| LinkedIn Profile | [View Screenshot](task-2-portfolio/linkedIn-profile.jpeg) |
-| ResearchGate Profile | [View Screenshot](task-2-portfolio/researchgate-profile.jpeg) |
+| GitHub Profile | [View Screenshot](task-2-portfolio/githubprofile.png) |
+| LinkedIn Profile | [View Screenshot](task-2-portfolio/linkdInprofile.png) |
+| ResearchGate Profile | [View Screenshot](task-2-portfolio/researchgateprofile.png) |
 
 ---
 
